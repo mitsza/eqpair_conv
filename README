@@ -4,4 +4,4 @@ Compilation and usage instruction:
 3). Run XSPEC
 4). Run the compilation script with XSPEC>@compile.xcm
 5). Load the model: XSPEC>lmod eqpairc <MODEL_FOLDER>
-6). Usage example: XSPEC>mo eqpairc*bb
+6). Usage example: XSPEC>mo ceqpair*bb
