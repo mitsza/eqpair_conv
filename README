@@ -1,6 +1,6 @@
 Compilation and usage instruction:
 1). Put the model files somewhere in Your home directory.
-2). Go to to the <MODEL_FOLDER>, where <MODEL_FOLDER> is the path to the directory with the model files.
+2). Go to the <MODEL_FOLDER>, where <MODEL_FOLDER> is the path to the directory with the model files.
 3). Run XSPEC
 4). Run the compilation script with XSPEC>@compile.xcm
 5). Load the model: XSPEC>lmod eqpairc <MODEL_FOLDER>
